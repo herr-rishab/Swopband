@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "CJWC78G2SS.com.swopband.nfc.swopband",
+        "paths": [
+          "/*"
+        ]
+      }
+    ]
+  }
+} 

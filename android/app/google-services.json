@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "172436055817",
+    "project_id": "swopband-37b18",
+    "storage_bucket": "swopband-37b18.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172436055817:android:cab6a98601ae4c325015d8",
+        "android_client_info": {
+          "package_name": "com.swopband.nfc.swopband"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172436055817-pjhbvocu0ka416gbe7k5nl7oq50sk59l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.swopband.nfc.swopband",
+            "certificate_hash": "b6ba703e3a68a88bc62af544e86cddec94c3a521"
+          }
+        },
+        {
+          "client_id": "172436055817-8j25plsvsec6cjcvnl4me687fp65730p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7xCOl5ys4-pC0ibAJmVHAG-Gkjv3Pznk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172436055817-8j25plsvsec6cjcvnl4me687fp65730p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "172436055817-oel4945sodpj1c0fr4ecqdvsskc0h8pi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.swopband.nfc.swopband"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
