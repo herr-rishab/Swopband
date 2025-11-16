@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/Status-Live%20on%20App%20Store-success)
 ![Tech](https://img.shields.io/badge/Built%20With-Flutter-blue)
 
-Create new real life connections and share at the tap of a finger with the SwopBand companion app. Pair your NFC ring, store your social links, and share your profile instantly in person.
+Create new real life connections and share at the tap of a finger with the SwopBand app. Pair your NFC ring, store your social links, and share your profile instantly in person.
 
 <a href="https://apps.apple.com/us/app/swopband/id6749292126" target="_blank">
   <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="55"/>
